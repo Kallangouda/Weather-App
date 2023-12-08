@@ -4,7 +4,7 @@ Weather-App is a user-friendly web application that provides real-time weather i
 
 ### Getting Started - 
 
-#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://sahil-s-i.github.io/Weather-App/)
+#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://Kallangouda.github.io/Weather-App/)
 Open index.html in your web browser.
 Enter the name of the city you want to check the weather for and click "Search."
 
