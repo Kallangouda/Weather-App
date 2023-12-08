@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 1rem 2rem;
+}
+
+.table {
+    margin: 2px auto;
+    width: 90%;
+}
+
+.logo {
+    margin-right: 1rem;
+}
+
+.navbar-brand {
+    cursor: default;
+}
+
+#cityName {
+    text-transform: capitalize;
+}
