@@ -1,12 +1,13 @@
 # Weather-App 🌦️
 
+#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://Kallangouda.github.io/Weather-App/)
+
 Weather-App is a user-friendly web application that provides real-time weather information for cities around the world. It allows users to check temperature, humidity, wind speed, and more to plan their day effectively.
 
 ### Getting Started - 
 
-#### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://Kallangouda.github.io/Weather-App/)
-Open index.html in your web browser.
-Enter the name of the city you want to check the weather for and click "Search."
+- Open index.html in your web browser.
+- Enter the name of the city you want to check the weather for and click "Search."
 
 ### 🌟 Key Features
 
