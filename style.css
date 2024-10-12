@@ -2,21 +2,21 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 101vh;
+    height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #220;
     background-image: url('https://source.unsplash.com/1600x900/?nature,water,landscape');
-    font-size: 121%;
+    font-size: 120%;
   }
   
   .card {
     background: #000000d0;
     color: white;
     padding: 2em;
-    border-radius: 31px;
-    width: 101%;
-    max-width: 421px;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
     margin: 1em;
   }
   
@@ -28,7 +28,7 @@ body {
   
   button {
     margin: 0.6em;
-    border-radius: 51%;
+    border-radius: 50%;
     border: none;
     height: 45px;
     width: 45px;
@@ -47,7 +47,7 @@ body {
     background: #7c7c7c1c;
     color: white;
     font-family: inherit;
-    font-size: 101%;
+    font-size: 100%;
     width: calc(100% - 100px);
   }
   
@@ -72,7 +72,7 @@ body {
   
   .weather.loading {
     visibility: hidden;
-    max-height: 21px;
+    max-height: 20px;
     position: relative;
   }
   
@@ -82,7 +82,7 @@ body {
     color: white;
     position: absolute;
     top: 0;
-    left: 21px;
+    left: 20px;
   }
   
   .footer{
